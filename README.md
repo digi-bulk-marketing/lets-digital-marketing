@@ -1,9 +1,14 @@
 # Lets Digital Marketing
 
-- Rebranding ID: 64c4c2a6f6ab77ec77248cdf
-- User ID: 64c4bf5af6ab77ec77244570
-- App name: Lets Digital Marketing
-- Product name: Button Sender
+Lets Digital Marketing by Lets Digital Marketing.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/lets-digital-marketing/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/lets-digital-marketing/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/lets-digital-marketing/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Lets Digital Marketing** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/lets-digital-marketing/releases/latest) and reinstall.
